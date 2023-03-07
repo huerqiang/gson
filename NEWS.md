@@ -1,5 +1,6 @@
-# gson 0.0.9.001
+# gson 0.1.0
 
++ fixed `read.gson()` by setting the default values (if empty) to NULL (to make it compatible with 'clusterProfiler') (2023-03-03, Mon)
 + set `gsname="WikiPathways"` in `read.gmt.wp(output = "gson")` (2022-09-23, Fri)
 
 # gson 0.0.9
